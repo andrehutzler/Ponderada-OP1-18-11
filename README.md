@@ -149,7 +149,5 @@ Cobertura atual:
 - CrypTool Online — seção Enigma: <https://www.cryptool.org/en/cto/>
 
 ## Créditos
-
-- Arquitetura original: Lucas de Luccas
 - Adaptação e documentação Kamasutra: **Andre Hutzler**
 
